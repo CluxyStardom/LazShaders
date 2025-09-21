@@ -1,0 +1,10 @@
+{
+  "format_version": "1.21.40",
+	"minecraft:point_light_settings": {
+    "colors": {
+      "minecraft:torch": "#db5e1f",
+      "minecraft:portal": "#6812da",
+
+    }
+}
+
