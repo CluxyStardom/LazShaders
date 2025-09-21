@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "LazShaders by Cluxystardom",
+        "uuid": "cb1cbdcb-a3c9-4ef9-9800-3771da7f5b6c",
+        "description": "Made by Cluxystardom",
+        "version": [1,2,29],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "LazShaders by Cluxystardom",
+            "type": "resources",
+            "uuid": "e923dcad-bead-4b6a-b4e8-df79ecba3a31",
+            "version": [1,2,29]
+          }
+    ],
+    "capabilities" : ["pbr"]
+  }
